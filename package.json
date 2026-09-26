@@ -1,0 +1,17 @@
+{
+  "name": "sqlyrd-bot-zaaxX",
+  "version": "2.0.0",
+  "description": "ƧQᄂYΛЯD Bot Tools by ZaaxX",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.21.0",
+    "axios": "^1.7.2",
+    "node-fetch": "^2.7.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
